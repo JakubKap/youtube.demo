@@ -16,7 +16,7 @@ public class My_random {
 	public void GeneratorLiniowy() {
 		int xn=x0;
 		int i=0;
-		System.out.println("Generator liniowy");
+		System.out.println("Generator liniowy: ");
 		
 		while(i!=m) {
 			i++;
