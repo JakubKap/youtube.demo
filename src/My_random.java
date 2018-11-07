@@ -21,7 +21,7 @@ public class My_random {
 		while(i!=m) {
 			i++;
 			xn=((a * xn) + c)%m;
-			System.out.println(xn);
+			System.out.println(xn + "s");
 		}
 	}
 	
